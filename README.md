@@ -38,7 +38,7 @@ and follow the instructions on the console.
 
 ### Physical Robot 
 
-![robot](./images/robot.png)
+![robot](./images/robot.png){width=50%, height=50%}
 
 ### CAD Designs
 | View 1 | View 2|
